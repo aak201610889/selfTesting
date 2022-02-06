@@ -1,0 +1,9 @@
+.qustion{
+  display: flex;
+  background-color: rgb(210, 241, 255);
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.qustion>div{
+  width: 50%;
+}
